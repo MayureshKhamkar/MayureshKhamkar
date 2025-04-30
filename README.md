@@ -33,7 +33,7 @@ Developed with **Flask, Python, HTML, CSS**, and **SQLite**.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-cloudinary
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
 
 ---
 
