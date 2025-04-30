@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hello, I'm Mayuresh Khamkar
 
 🎓 Final Year TYBBA(CA) Student – Savitribai Phule Pune University  
