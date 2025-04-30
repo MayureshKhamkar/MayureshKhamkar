@@ -36,7 +36,7 @@ Developed with **Flask, Python, HTML, CSS**, and **SQLite**.
 ## 📫 Connect with Me
 
 - 📧 Email: `mayureshkhamkar19@gmail.com`
-- 🔗 LinkedIn: [linkedin.com/in/mayureshkhamkar](www.linkedin.com/in/mayuresh-khamkar-2a974232a)
+- 🔗 LinkedIn: [linkedin.com/in/mayureshkhamkar](www.linkedin.com/in/mayuresh-khamkar)
 - 🌐 Portfolio: *(coming soon)*
 
 ---
