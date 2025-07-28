@@ -41,7 +41,7 @@ Developed with **Flask, Python, HTML, CSS**, and **SQLite**.
 
 - 📧 Email: `mayureshkhamkar19@gmail.com`
 - 🔗 LinkedIn: [linkedin.com/in/mayureshkhamkar](www.linkedin.com/in/mayuresh-khamkar)
-- 🌐 Portfolio: *(coming soon)*
+- 🌐 Portfolio: [(https://mayureshkhamkar.vercel.app/)]
 
 ---
 
