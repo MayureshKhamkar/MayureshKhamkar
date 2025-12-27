@@ -1,58 +1,61 @@
 # 👋 Hello, I'm Mayuresh Khamkar
 
-**Software Developer | MCA Candidate** *Passionate about Software Engineering, System Logic, and Building Scalable Applications.*
+**Software Developer | MCA Candidate** *Backend Developer Intern @ Triune Trades | GenAI & Data Analytics Enthusiast*
 
 ---
 
 ## 📈 Professional Summary
-I am an aspiring Software Developer currently pursuing my Master of Computer Applications (MCA). My transition from BBA(CA) to MCA is driven by a deep interest in the core principles of computer science, including **Data Structures, Algorithm Optimization, and System Design.** I specialize in building functional software solutions that integrate robust backend logic with efficient database management.
+I am a Software Developer and current MCA candidate with a focus on building data-driven, scalable applications. With professional experience in **Backend Engineering (Django)** and a suite of certifications in **Data Analytics (Quantium, Deloitte, Tata)**, I bridge the gap between complex software logic and actionable data insights.
+
+---
+
+## 💼 Professional Experience
+
+### **Backend Developer Intern** | Triune Trades
+*September 2025 – Present*
+- **Engineering:** Driving backend development and system maintenance using **Django** and **Python**.
+- **Data Architecture:** Managing relational database schemas and optimizing server-side logic for enhanced performance.
+- **Problem Solving:** Implementing secure user authentication and streamlining API communications for internal business tools.
 
 ---
 
 ## 🧰 Technical Expertise
 
-### 💻 Core Languages & Logic
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 💻 Development Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚙️ Frameworks & Web Technologies
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Database & Cloud Infrastructure
+### 📊 Data Analytics & AI
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-005A9C?style=for-the-badge&logo=analysis&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-Powered-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 💼 Featured Software Projects
+## 📜 Certifications & Job Simulations
+- **Tata Group:** GenAI Powered Data Analytics (2025)
+- **Quantium:** Data Analytics Virtual Simulation (2025)
+- **Deloitte:** Data Analytics & Forensic Technology Simulation (2025)
+- **Udemy:** React - Practical Project Completion (2025)
+
+---
+
+## 💼 Featured Engineering Projects
 
 ### 🎬 [Editeum](https://github.com/MayureshKhamkar/Editeum) – Media Assets Marketplace
-*A full-stack software solution for digital asset management and monetization.*
-- **Logic:** Engineered a secure backend using **Python/Flask** with **SQLite** for structured data storage.
-- **Integration:** Implemented **Cloudinary API** for automated cloud media handling and storage optimization.
-- **Security:** Developed user authentication and session management to ensure data privacy.
+- **Backend:** Engineered with **Flask/Python** and **SQLite**.
+- **Integration:** Automated media workflows using **Cloudinary API**.
 
 ### 📘 [LearnHub](https://github.com/MayureshKhamkar/LearnHub) – Educational Platform
-*A dynamic learning management system designed for foundational education.*
-- **System Design:** Created a modular architecture using **PHP** for quiz processing and course delivery.
-- **Database Management:** Optimized **MySQL** queries to manage student records and performance analytics.
-
-### 👟 [Sneak Freak](https://github.com/MayureshKhamkar/Sneak-Freak) – E-commerce Implementation
-*A performance-focused frontend application for retail browsing.*
-- **Engineering:** Focused on high-performance DOM manipulation and responsive design using **Vanilla JavaScript**.
-- **Tech Stack:** HTML5, CSS3, JavaScript (ES6+).
+- **Logic:** Developed a modular **PHP** architecture for dynamic course delivery and **MySQL** record management.
 
 ---
 
-## 📊 Performance & Impact
+## 📊 Analytics & Impact
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MayureshKhamkar&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshKhamkar&layout=compact&theme=radical&hide_border=true" width="45%" />
