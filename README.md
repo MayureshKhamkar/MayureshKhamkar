@@ -4,7 +4,7 @@
 
 ---
 
-## Professional Summary
+## Summary
 Software Developer with focused expertise in Backend Engineering and Data Analytics. Currently pursuing a Master of Computer Applications (MCA) with a specialized interest in scalable system architecture and GenAI-powered data solutions. Proven experience in developing secure, high-performance backends and integrating complex API ecosystems.
 
 ---
