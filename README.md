@@ -1,23 +1,23 @@
 # 👋 Hello, I'm Mayuresh Khamkar
 
-**Master of Computer Applications (MCA) Candidate** *Software Developer focused on building scalable web solutions and exploring advanced software engineering.*
+**Software Developer | MCA Candidate** *Passionate about Software Engineering, System Logic, and Building Scalable Applications.*
 
 ---
 
 ## 📈 Professional Summary
-I am a dedicated developer transitioning from a Business/CA background to advanced Computing Applications. My focus lies in developing robust full-stack applications, managing relational and NoSQL databases, and crafting seamless user experiences. I am currently deepening my expertise in **Data Structures, Algorithm Design, and System Architecture** as part of my MCA curriculum.
+I am an aspiring Software Developer currently pursuing my Master of Computer Applications (MCA). My transition from BBA(CA) to MCA is driven by a deep interest in the core principles of computer science, including **Data Structures, Algorithm Optimization, and System Design.** I specialize in building functional software solutions that integrate robust backend logic with efficient database management.
 
 ---
 
-## 🧰 Technical Stack
+## 🧰 Technical Expertise
 
-### 💻 Languages & Backend Logic
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Core Languages & Logic
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Web & Frameworks
+### ⚙️ Frameworks & Web Technologies
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,28 +32,27 @@ I am a dedicated developer transitioning from a Business/CA background to advanc
 
 ---
 
-## 💼 Engineering Projects
+## 💼 Featured Software Projects
 
-### 🎬 [Editeum](https://github.com/MayureshKhamkar/Editeum) | Full-Stack Marketplace
-*Digital asset marketplace for video editors to showcase and monetize their work.*
-- **Backend Architecture:** Built with **Flask** and **Python** using **SQLite** for relational data management.
-- **Key Features:** Implemented User Authentication, Asset Uploading via **Cloudinary API**, and a dynamic creator dashboard.
-- **Tech:** Flask, Python, SQLite, HTML5, CSS3.
+### 🎬 [Editeum](https://github.com/MayureshKhamkar/Editeum) – Media Assets Marketplace
+*A full-stack software solution for digital asset management and monetization.*
+- **Logic:** Engineered a secure backend using **Python/Flask** with **SQLite** for structured data storage.
+- **Integration:** Implemented **Cloudinary API** for automated cloud media handling and storage optimization.
+- **Security:** Developed user authentication and session management to ensure data privacy.
 
-### 📘 [LearnHub](https://github.com/MayureshKhamkar/LearnHub) | Educational CMS
-*An interactive learning management system focused on foundational skill-building.*
-- **Logic:** Developed a custom backend using **PHP** for quiz processing and course content delivery.
-- **Functionality:** Features secure student login, administrative course management, and automated performance tracking.
-- **Tech:** PHP, MySQL, JavaScript.
+### 📘 [LearnHub](https://github.com/MayureshKhamkar/LearnHub) – Educational Platform
+*A dynamic learning management system designed for foundational education.*
+- **System Design:** Created a modular architecture using **PHP** for quiz processing and course delivery.
+- **Database Management:** Optimized **MySQL** queries to manage student records and performance analytics.
 
-### 👟 [Sneak Freak](https://github.com/MayureshKhamkar/Sneak-Freak) | E-commerce UI/UX
-*A high-fidelity frontend implementation for a sneaker retail platform.*
-- **Focus:** Optimized for responsive design and smooth DOM manipulation using **Vanilla JavaScript**.
-- **Tech:** HTML5, CSS3, JavaScript.
+### 👟 [Sneak Freak](https://github.com/MayureshKhamkar/Sneak-Freak) – E-commerce Implementation
+*A performance-focused frontend application for retail browsing.*
+- **Engineering:** Focused on high-performance DOM manipulation and responsive design using **Vanilla JavaScript**.
+- **Tech Stack:** HTML5, CSS3, JavaScript (ES6+).
 
 ---
 
-## 📊 Analytics & Impact
+## 📊 Performance & Impact
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MayureshKhamkar&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshKhamkar&layout=compact&theme=radical&hide_border=true" width="45%" />
