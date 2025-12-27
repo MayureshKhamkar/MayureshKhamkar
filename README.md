@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mayuresh Khamkar
 
-**Master of Computer Applications (MCA) Candidate** *Full-Stack Developer focused on building scalable web solutions and exploring advanced software engineering.*
+**Master of Computer Applications (MCA) Candidate** *Software Developer focused on building scalable web solutions and exploring advanced software engineering.*
 
 ---
 
