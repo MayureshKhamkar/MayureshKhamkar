@@ -13,7 +13,7 @@ Software Developer with focused expertise in Backend Engineering and Data Analyt
 
 ### **Backend Developer Intern** | Triune Trades
 *September 2025 – Present*
-- **Backend Engineering:** Architecting and maintaining core web services using **Django** and **Python**.
+- **Engineering:** Architecting and maintaining core web services using **Django** and **Python**.
 - **System Optimization:** Refining relational database schemas and server-side logic to enhance application latency.
 - **API Development:** Implementing secure authentication protocols and streamlining internal API communications.
 
@@ -53,21 +53,15 @@ Software Developer with focused expertise in Backend Engineering and Data Analyt
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
 | Project | Description | Technical Stack |
 | :--- | :--- | :--- |
+| **Triune Trades Web** | Enterprise backend and platform development (Internship). | Django, Python, MySQL |
 | **Editeum** | Media asset marketplace for digital creators. | Flask, Python, SQLite, Cloudinary |
 | **LearnHub** | Educational CMS for foundational learning and quiz logic. | PHP, MySQL, JavaScript |
 | **Sneak Freak** | High-performance E-commerce UI implementation. | JavaScript (ES6+), HTML5, CSS3 |
 
----
-
-## Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayureshKhamkar&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayureshKhamkar&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
 
 ---
 
