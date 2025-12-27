@@ -1,11 +1,11 @@
 # Mayuresh Khamkar
 
-**Software Developer | MCA Candidate** *Backend Developer Intern @ Triune Trades | Django & Data Analytics Specialist*
+**Backend Developer | MCA Candidate** *Currently Interning @ Triune Trades | Specializing in Scalable Backend Systems & Data Analytics*
 
 ---
 
 ## Summary
-Software Developer with focused expertise in Backend Engineering and Data Analytics. Currently pursuing a Master of Computer Applications (MCA) with a specialized interest in scalable system architecture and GenAI-powered data solutions. Proven experience in developing secure, high-performance backends and integrating complex API ecosystems.
+Performance-driven Backend Developer with a strong foundation in Software Engineering. Currently pursuing an MCA and interning at Triune Trades, where I focus on architecting secure server-side logic and optimizing database performance. Proficient in building robust APIs and integrating GenAI-driven data analytics into modern web ecosystems.
 
 ---
 
